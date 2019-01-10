@@ -6,3 +6,4 @@ Kodiac
 A4
 A5
 A8
+Compass
